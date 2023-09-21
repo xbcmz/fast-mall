@@ -9,6 +9,9 @@ out
 gen
 target
 *.log
+*.http
+*.cookies
+*.json
 
 # Nacos
 !**/nacos/target
